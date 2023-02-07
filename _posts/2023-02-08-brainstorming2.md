@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post 6"
+title:  "Brainstorming session"
 date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
-categories: Dummy
+author: Estelle Guéville
+categories: upcoming
 tags: lorem ipsum
 ---
 
