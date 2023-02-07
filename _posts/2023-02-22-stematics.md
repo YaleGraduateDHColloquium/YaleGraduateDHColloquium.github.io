@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
-categories: Jekyll
+title:  "Digital Stematics by Carson Koepke"
+date:   2023-02-22T14:25:52-05:00
+author: Estelle Guéville
+categories: upcoming
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---

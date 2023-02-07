@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brainstorming session"
-date:   2015-04-18T14:25:52-05:00
+date:   2022-10-24T14:25:52-05:00
 author: Estelle Guéville
 categories: past
 ---
