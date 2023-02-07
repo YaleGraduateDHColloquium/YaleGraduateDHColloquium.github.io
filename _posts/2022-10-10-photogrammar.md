@@ -7,11 +7,13 @@ categories: past
 ---
 
 # Photogrammar: Then and Now
-**By Lauren Tilton,** Associate Prof. of Digital Humanities at the University of Richmond and former Yale Ph.D. student
+**By Lauren Tilton,** Associate Prof. of Digital Humanities at the University of Richmond and former Yale Ph.D. student in American Studies
+
+<br>
 
 
-<a href="/assets/photogrammar/1.jpg" data-lightbox="photogrammar" data-title="Photogrammar">
-  <img src="/assets/photogrammar/1.jpg" title="Photogrammar">
+<a href="/assets/photogrammar/1.jpg" data-lightbox="photogrammar" data-title="Photogrammar ©Michał Choiński">
+  <img src="/assets/photogrammar/1.jpg" title="Photogrammar ©Michał Choiński">
 </a>
 
 <br>
