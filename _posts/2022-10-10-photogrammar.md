@@ -6,8 +6,8 @@ author: Estelle Guéville
 categories: past
 ---
 
-# Photogrammar: Then and Now.
-## Lauren Tilton, Associate Prof. of Digital Humanities at the University of Richmond and former Yale Ph.D. student
+**Photogrammar: Then and Now.**
+**Lauren Tilton, Associate Prof. of Digital Humanities at the University of Richmond and former Yale Ph.D. student**
 
 Do you work with historical images? Would you like to learn new ways of analyzing your sources?
 
