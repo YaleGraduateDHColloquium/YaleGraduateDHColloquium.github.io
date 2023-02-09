@@ -3,7 +3,8 @@ layout: post
 title:  "Transkribus Workshop by Sara Mansutti"
 date:   2022-10-13T14:25:52-05:00
 author: Estelle Guéville
-categories: past
+categories: workshop
+cover:  "/assets/workshop.png"
 ---
 
 # Transkribus Workshop. AI-Powered Text Recognition & Transcription

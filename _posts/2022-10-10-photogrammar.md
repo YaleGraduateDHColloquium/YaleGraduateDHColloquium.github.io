@@ -3,7 +3,8 @@ layout: post
 title:  "Photogrammar by Lauren Tilton"
 date:   2022-10-10T14:25:52-05:00
 author: Estelle Guéville
-categories: past
+categories: talk
+cover:  "/assets/talk.jpg"
 ---
 
 # Photogrammar: Then and Now

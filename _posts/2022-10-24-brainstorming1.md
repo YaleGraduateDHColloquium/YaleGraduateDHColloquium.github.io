@@ -3,7 +3,8 @@ layout: post
 title:  "Brainstorming session"
 date:   2022-10-24T14:25:52-05:00
 author: Estelle Guéville
-categories: past
+categories: brainstorming
+cover:  "/assets/brainstorming.jpg"
 ---
 
 # Brainstorming Session

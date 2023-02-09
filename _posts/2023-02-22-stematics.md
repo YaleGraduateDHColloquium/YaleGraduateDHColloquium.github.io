@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Digital Stematics by Carson Koepke"
-date:   2023-02-22T14:25:52-05:00
+date:   2023-02-08T14:25:52-05:00
 author: Estelle Guéville
-categories: upcoming
-tags:	jekyll welcome
-cover:  "/assets/instacode.png"
+categories: workshop
+cover:  "/assets/workshop.png"
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
