@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Events"
+title: "Past Events"
 permalink: /posts/
 main_nav: true
 ---
