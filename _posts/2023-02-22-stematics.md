@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Digital Stematics by Carson Koepke"
-date:   2023-02-08T14:25:52-05:00
+date:   2023-02-22T14:25:52-05:00
 author: Estelle Guéville
 categories: workshop
 cover:  "/assets/workshop.png"
