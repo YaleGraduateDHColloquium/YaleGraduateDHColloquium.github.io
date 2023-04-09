@@ -7,67 +7,38 @@ categories: workshop
 cover:  "/assets/workshop.png"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Digital Collation and Stemmatics: Automating the Workflow of Textual Criticism
+**By Carson Koepke** PhD Candidate at Yale University, Medieval Studies
 
-## Adding New Posts
+<br>
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-### Tags and Categories
-
-If you list one or more categories or tags in the front matter of your post, they will be included with the post on the page as links. Clicking the link will bring you to an auto-generated archive page for the category or tag, created using the [jekyll-archive][jekyll-archive] gem.
-
-### Cover Images
-
-To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/cover_image.jpg"</code>).
-
-### Code Snippets
-
-You can use [highlight.js][highlight] to add syntax highlight code snippets:
-
-Use the [Liquid][liquid] `{% raw %}{% highlight <language> %}{% endraw %}` tag to add syntax highlighting to code snippets.
-
-For instance, this template...
-{% highlight html %}
-{% raw %}{% highlight javascript %}    
-function demo(string, times) {    
-  for (var i = 0; i < times; i++) {    
-    console.log(string);    
-  }    
-}    
-demo("hello, world!", 10);
-{% endhighlight %}{% endraw %}
-{% endhighlight %}
-
-...will come out looking like this:
-
-{% highlight javascript %}
-function demo(string, times) {
-  for (var i = 0; i < times; i++) {
-    console.log(string);
-  }
-}
-demo("hello, world!", 10);
-{% endhighlight %}
-
-Syntax highlighting is done using [highlight.js][highlight]. You can change the active theme in [head.html](https://github.com/bencentra/centrarium/blob/2dcd73d09e104c3798202b0e14c1db9fa6e77bc7/_includes/head.html#L15).
-
-### Images
-
-Lightbox has been enabled for images. To create the link that'll launch the lightbox, add <code>data-lightbox</code> and <code>data-title</code> attributes to an <code>&lt;a&gt;</code> tag around your <code>&lt;img&gt;</code> tag. The result is:
-
-<a href="//bencentra.com/assets/images/falcon9_large.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
-  <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
+<a href="/assets/collatex/1.HEIC" data-lightbox="collatex" data-title="CollateX Workshop">
+  <img src="/assets/collatex/1.HEIC" title="CollateX Workshop">
 </a>
 
-For more information, check out the [Lightbox][lightbox] website.
+<br>
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+**Do you have several versions of a text that you need to collate or align? Do you want to better understand the genetic relationship between these texts by making a stemma? Alternatively, do you simply want to build familiarity with Python and other DH (Digital Humanities) tools?**
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-[highlight]:   https://highlightjs.org/
-[lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
-[jekyll-archive]: https://github.com/jekyll/jekyll-archives
-[liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+Many literary and textual scholars must confront the issue that multiple versions of the “same” text often survive, whether in epigraphic, manuscript, or printed form. However, the number of copies or the differences between them can quickly become overwhelming. Fortunately, computers are here to help!
+ 
+Over the course of two 50-minute sessions, attendees learned how to use the CollateX package for Python, a powerful tool for text alignment, collation and visualization. They used Jupyter Notebook to practice coding and then write Python scripts to run from the command line. You were also introduced to the online stemmatics platform StemmaWeb, which can handle the output of CollateX.
+
+<br>
+
+**When:** Wednesday, February 22, 2023 at 4pm  
+**Where:** Yale Humanities Quadrangle 107
+
+<br>
+
+## Additional Information:
+**Recommended to bring:**
+1. Laptop with up-to-date Windows or Macintosh operating system
+2. Very basic familiarity with Python (a popular coding language for DH)
+3. Transcriptions (as .txt files) of 3+ versions of a text that you would like to align; otherwise, I will supply sample text.
+Note: 500 to 1000 words of text is a good size, but more or less is okay. Removing "accidentals", or non-important variation such as punctuation, is recommended.
+4. Have access to a plain text editor such as Notepad (Windows) or TextEdit (Mac)  
+
+**Before the workshop:**
+Install the Anaconda Python distribution (bundled with Jupyter Notebook, Powershell for Windows, etc.): https://www.anaconda.com/products/distribution

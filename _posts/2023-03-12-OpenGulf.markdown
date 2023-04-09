@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Ruqʿah Reader & OpenGulf by Nora Barakat, Alex Jreisat and Enkhjin Munkhbayar"
+date:   2023-04-12 08:43:59
+author: Estelle Guéville
+categories: workshop
+cover:  "/assets/talk.png"
+---
+
+# Ruqʿah Reader & OpenGulf: Mapping Texts and Spatial Relationships from the Eastern Mediterranean to the Persian Gulf
+**by Nora Elizabeth Barakat**, Assistant Professor of History at Stanford University, **Alex Jreisat**, Ph.D. student in Anthropology and History at the University of Michigan – Ann Arbor and **Enkhjin Munkhbayar**,sophomore at Stanford University.
+
+<br>
+
+
+<a href="/assets/opengulf/1.png" data-lightbox="opengulf" data-title="opengulf">
+  <img src="/assets/opengulf/1.png" title="opengulf">
+</a>
+
+<br>
+
+This presentation introduced two interlinked projects that explore the potential of digital humanities methods for the study of the Eastern Mediterranean and Persian Gulf worlds through historical texts. The first project, Ruq‘ah Reader, uses Transkribus to create a handwritten text recognition model for 19th and 20th-century Arabic texts written in the Ruq’ah script. The second project, OpenGulf, explores the possibilities that machine-readable text enable. The project is creating a dataset of toponyms extracted from a British geographical dictionary of the Persian Gulf as a spine for a wider, multisource historical gazetteer.
+
+
+# Our speakers
+
+**Nora Elizabeth Barakat** is Assistant Professor of History at Stanford University.  Her research focuses on people, commodities and landscapes in the Mediterranean and Indian Ocean worlds in the nineteenth and twentieth centuries.  Her first book, Bedouin Bureaucrats: Mobility and Property in the Ottoman Empire, is coming out with Stanford University Press in April 2023.  With David Wrisley, Nora is co-founder of OpenGulf, a research group that explores the use of digital methods for historical studies of the Persian Gulf, and, with Alex Jreisat, the Ruq‘ah Reader project, which is developing an HTR model for transcribing historical Arabic handwritten texts. 
+
+**Alex Jreisat**, a third-year doctoral student in Anthropology and History at the University of Michigan – Ann Arbor, specializes in exploring questions around borders, circulation, law, and kinship in the 20th-century Levant, with a focus on Jordan and Palestine. Alongside his academic pursuits, Jreisat is a skilled writer, educator, and translator, having translated Ghalib Halasa’s Sultana in 2019. His enthusiasm for digital humanities extends to 3D-modeling, printing, mapping, machine learning, and Handwritten Text Recognition (HTR). In collaboration with Prof. Nora Barakat from Stanford University, he has created and managed the Ruqʿah Reader project, which aims to make Arabic handwriting machine-readable.
+
+**Enkhjin Munkhbayar** is a sophomore at Stanford studying Data Science and Social Systems.  Enkhjin is currently a research intern at the Center for Spatial and Textual Analysis at Stanford working with the OpenGulf research group.  Her work focuses on data disambiguation, developing code for automatic data enrichment, and data visualization using GIS platforms.
+
+<br>
+
+**When:** Wednesday, April 12, 2023 at 4pm  
+**Where:** Yale Humanities Quadrangle 107
