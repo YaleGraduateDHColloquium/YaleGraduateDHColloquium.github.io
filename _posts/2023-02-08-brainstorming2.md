@@ -7,7 +7,18 @@ categories: brainstorming
 cover:  "/assets/brainstorming.jpg"
 ---
 
+# Brainstorming Session
 
-Mapping in Russia (Monasteries)
-ArcGIS/ easier: palladio (harvard) data visualisation
-TOPOGRAPHY
+<br>
+
+**Do you want to explore how DH tools might strengthen your project? Do you have a DH project and want to discuss it and get some advice?**
+
+This second brainstorming session talked discussed the participants research projects and provided valuable feedback and advice from fellow graduate peers. We learned about others’ projects, discovered new tools and got some new ideas! Some of the subjects discussed:
+- Mapping monasteries in Russia
+- Mapping topography
+- Data visualisation with Palladio
+
+<br>
+
+**When:** Wednesday, February 08, 2023 at 4pm  
+**Where:** Yale Humanities Quadrangle 107

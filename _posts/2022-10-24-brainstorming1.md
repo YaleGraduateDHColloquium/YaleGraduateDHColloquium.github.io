@@ -13,7 +13,7 @@ cover:  "/assets/brainstorming.jpg"
 
 **Do you want to explore how DH tools might strengthen your project? Do you have a DH project and want to discuss it and get some advice?**
 
-This first brainstorming session talked discussed the participants research projects and provided valuable feedback and advice from fellow graduate peers. We ate cookied and learn about others’ projects, discovered new tools and got some new ideas!
+This first brainstorming session talked discussed the participants research projects and provided valuable feedback and advice from fellow graduate peers. We ate cookies and learned about others’ projects, discovered new tools and got some new ideas!
 
 <br>
 
