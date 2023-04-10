@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Past Events"
-permalink: /posts/
+permalink: /pastevents/
 main_nav: true
 ---
 
