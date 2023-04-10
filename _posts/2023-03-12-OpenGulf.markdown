@@ -3,7 +3,7 @@ layout: post
 title:  "Ruqʿah Reader & OpenGulf by Nora Barakat, Alex Jreisat and Enkhjin Munkhbayar"
 date:   2023-04-12 08:43:59
 author: Estelle Guéville
-categories: workshop
+categories: talk
 cover:  "/assets/talk.png"
 ---
 
