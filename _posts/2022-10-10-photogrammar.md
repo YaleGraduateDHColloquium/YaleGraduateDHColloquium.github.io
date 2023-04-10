@@ -4,7 +4,7 @@ title:  "Photogrammar by Lauren Tilton"
 date:   2022-10-10T14:25:52-05:00
 author: Estelle Guéville
 categories: talk
-cover:  "/assets/talk.jpg"
+cover:  "/assets/talk.png"
 ---
 
 # Photogrammar: Then and Now
