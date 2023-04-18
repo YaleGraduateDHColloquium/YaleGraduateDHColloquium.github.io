@@ -4,7 +4,7 @@ title:  "Ruqʿah Reader & OpenGulf by Nora Barakat, Alex Jreisat and Enkhjin Mun
 date:   2023-04-12 08:43:59
 author: Estelle Guéville
 categories: talk
-cover:  "/assets/talk.png"
+cover:  "/assets/talk.jpg"
 ---
 
 # Ruqʿah Reader & OpenGulf: Mapping Texts and Spatial Relationships from the Eastern Mediterranean to the Persian Gulf

@@ -19,7 +19,10 @@ Estelle is a French curator and researcher currently pursuing her PhD in Medieva
 <br>
 
 # Kim Lifton
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture Kim"){:.profile}
+![alt text]({{ site.baseurl }}/assets/Kimberly-Lifton picture.jpeg "Profile Picture Kim"){:.profile}
+
+Kimberly Lifton is a PhD student in Yale University's Medieval Studies Department. She has worked on several digital humanities projects including the Yale Center for British Art's discovery portals, Botanical Imaginaries, The English Equity Court Transcription Project, and English Merchant Shipping, Maritime Communities, and Trade from the Spanish Armada to the Seven Years War, c. 1588-c. 1765. Her own research focuses on fifteenth-century manuscripts in England, Burgundy, and France. Currently, she is working with Yale's Conservation Department to research illumination practices in the Clumber Park Chartier using XRF and multispectral imaging. 
+
 
 <br>
 
